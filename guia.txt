@@ -1,0 +1,8 @@
+git init (Iniciar git dentro de la carpeta)
+git add/remove (Agregar archivos nuevos)
+git diff file.php (Los cambios realizados en X archivo)
+git commit (Aplicar cambios) Letra i luego :wq
+git log (Saber las veces que se han hecho commit y quien lo hizo)
+git config --global user.email "email" (Correo del usuario)
+git config --global user.name "nombre" (Correo del usuario)
+
