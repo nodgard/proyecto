@@ -1,5 +1,6 @@
 git init (Iniciar git dentro de la carpeta)
 git add/remove (Agregar archivos nuevos)
+git add . (Agrigar TODOS los archivos)
 git diff file.php (Los cambios realizados en X archivo)
 git commit (Aplicar cambios) Letra i luego :wq
 git commit -m "Mensaje" Es mejor pare evitar el paso de arriba
