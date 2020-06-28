@@ -7,6 +7,5 @@
 </head>
 <body>
 	<h2>HOLA MUNDO</h2>
-	<p>Mensaje de prueba</p>
 </body>
 </html>
