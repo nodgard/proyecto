@@ -6,6 +6,7 @@
 	<script type="text/javascript" src="index.js"></script>
 </head>
 <body>
-	<h2>HOLA MUNDOx</h2>
+	<h2>HOLA MUNDO</h2>
+	<p>Mensaje de prueba</p>
 </body>
 </html>
