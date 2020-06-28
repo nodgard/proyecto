@@ -8,3 +8,6 @@ git log (Saber las veces que se han hecho commit y quien lo hizo)
 git config --global user.email "email" (Correo del usuario)
 git config --global user.name "nombre" (Correo del usuario)
 
+git remote add origin http://github.com/xxxx (Agregar un repositorio)
+git push -u origin master (Subir archivos locales al repositorio)
+git clone http://github.com/xxxx (Descargar archivos del repositorio)
